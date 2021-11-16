@@ -1,0 +1,17 @@
+
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    background-color: bisque;
+}
+
+
+
+
+.title {
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
